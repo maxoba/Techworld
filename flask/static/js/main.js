@@ -10,7 +10,7 @@ $(document).ready(function() {
         op.val('');
         num2.val('');
         temp.val('');
-    };
+    }; any how we dey
 
     var clearOutput = function() {
         mainOutput.html('');
